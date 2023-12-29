@@ -135,8 +135,8 @@ body {
 }
 
 .buttons .watch-now {
-  padding: 16px 32px;
-  border-radius: 4px;
+  padding: 1.6rem 3.2rem;
+  border-radius: 0.4rem;
   background: #0077dc;
 
   border: none;
@@ -154,8 +154,8 @@ body {
 }
 
 .buttons .trailer {
-  padding: 16px 32px;
-  border-radius: 4px;
+  padding: 1.6rem 3.2rem;
+  border-radius: 0.4rem;
   border: 1px solid #fff;
 
   background: #131318;
