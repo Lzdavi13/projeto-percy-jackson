@@ -1,3 +1,47 @@
 html {
   font-size: 62.5%;
 }
+
+@media screen and (max-width: 800px) {
+  .container {
+    justify-content: center;
+    gap: 5.6rem;
+  }
+
+  .title {
+    height: auto;
+  }
+
+  .title h1 {
+    font-size: 2.4rem;
+  }
+
+  .title .logo {
+    width: 22.1rem;
+    height: 12.2rem;
+  }
+
+  .content {
+    flex-direction: column;
+  }
+
+  .content .details {
+    flex-direction: column;
+    gap: 4.8rem;
+  }
+
+  .informations {
+    width: 58.2rem;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .card img {
+    width: 22.9rem;
+    height: 33.3rem;
+  }
+
+  .buttons {
+    align-items: center;
+  }
+}
