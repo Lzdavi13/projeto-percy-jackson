@@ -22,10 +22,6 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: #000;
-  opacity: 0.8;
-
-  backdrop-filter: brightness(10%);
 }
 
 .title {
