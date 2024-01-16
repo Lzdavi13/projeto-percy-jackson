@@ -55,6 +55,7 @@ html {
     overflow-x: hidden;
     background-size: fill;
     object-fit: fill;
+    width: 100%;
   }
 
   .container {
